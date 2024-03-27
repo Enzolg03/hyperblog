@@ -14,4 +14,10 @@ Pero Hyperblog no es solo un destino, ¡es una experiencia! Sumérgete en nuestr
 
 Así que prepárate para dejar atrás lo ordinario y sumergirte en lo extraordinario. Bienvenido a Hyperblog, donde la aventura nunca termina y cada clic te lleva más lejos en el universo digital. ¡Embárcate en este viaje con nosotros y descubre un nuevo mundo de posibilidades sin límites! 🚀🔥
 
+<<<<<<< HEAD
 Creado con amor por mí
+=======
+Creado con amor por mí
+Incluye ejemplos en windows, linux y mac
+Disponible para todas las edades
+>>>>>>> readme-mejorada
